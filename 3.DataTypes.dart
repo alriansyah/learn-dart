@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   String greetings = 'Hello Dart!';
   int myAge = 20;
